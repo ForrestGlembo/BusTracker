@@ -14,4 +14,4 @@ I would like to add the ability to allow to user to change themes on the page it
 
 License - 
 
-Copyright Forrest Glembo & MIT
+Please see license file above. 
